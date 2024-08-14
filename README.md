@@ -74,12 +74,6 @@ The Weather Information App is a Java-based desktop application that allows user
 - **Weather Forecast Sorting:**
   - The 8-day forecast data is sorted and displayed in chronological order. The app groups forecasts by day and displays the day name (e.g., "Mon," "Tue") along with the weather details.
 
-## Future Improvements
-
-- **Enhanced Location Search:** Support for location suggestions and more robust location handling (e.g., by including country names or coordinates).
-- **Detailed Weather Data:** Adding more weather details like UV index, sunrise/sunset times, etc.
-- **User Preferences:** Allow users to save preferences such as default location and temperature units.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
